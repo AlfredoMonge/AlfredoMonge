@@ -1,6 +1,10 @@
-#Perfil empresarial de GIT
+# Perfil de uso empresarial de GIT
 ## Alfredo Monge
-### Este perfil es empresarial, de uso exclusivo para los proyectos y labores relacionadas con la empresa.
+### El objetivo de esta cuenta es poder tener y usar un perfil empresarial, de tal manera que su uso y tareas sean de uso exclusivo para los proyectos y labores relacionadas con la empresa.
+
+Senior Software Developer and Production Support
+
+AVISO DE CONFIDENCIALIDAD: La información contenida en esta cuenta es confidencial, quedando estrictamente prohibidas la difusión, distribución o reproducción de proyectos relacionados con la empresa.
 
 <!--
 **AlfredoMonge/AlfredoMonge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
